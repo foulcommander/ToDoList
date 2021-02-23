@@ -14,4 +14,3 @@ var create=document.createElement("p");
 list.appendChild(create);
 inputText.value="";
 }
-
